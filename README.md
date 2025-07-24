@@ -11,3 +11,5 @@ Carbapenem-Resistant Acinetobacter Baumannii  https://www.youtube.com/watch?v=ct
 ## Coagulation
 
 Coagulation Cascade Animation  https://www.youtube.com/watch?v=cy3a__OOa2M
+
+Fibrinolysis, Thrombolysis and Anticoagulation  https://www.youtube.com/watch?v=JSGV9Zh8K74
