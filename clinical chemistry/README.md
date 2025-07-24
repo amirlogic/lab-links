@@ -14,3 +14,6 @@ Na, Cl, Ca, K...
 ## TDM
 
 
+## Quality Control
+
+Levey Jennings, Westgard...
