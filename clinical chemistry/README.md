@@ -11,6 +11,11 @@ Glucose, Urea, Creatinine...
 Na, Cl, Ca, K...
 
 
+## Electrphoresis
+
+Interpretation  https://www.aafp.org/pubs/afp/issues/2005/0101/p105.html
+
+
 ## TDM
 
 
