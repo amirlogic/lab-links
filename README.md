@@ -1,6 +1,6 @@
-# Lab Links
+# Lab Links and Notes
 
-Clinical Laboratory Links
+Clinical Laboratory Links and Notes
 
 
 ## Microbiology
