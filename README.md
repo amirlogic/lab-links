@@ -3,6 +3,9 @@
 Clinical Laboratory Links and Notes
 
 
+[Clinical Chemistry](clinical chemistry/README.md)
+
+
 ## Microbiology
 
 Carbapenem-Resistant Acinetobacter Baumannii  https://www.youtube.com/watch?v=ctfzxhQbG0k
