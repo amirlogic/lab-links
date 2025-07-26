@@ -3,7 +3,7 @@
 Clinical Laboratory Links and Notes
 
 
-[Clinical Chemistry](clinical chemistry/README.md)
+[Clinical Chemistry](<clinical chemistry/README.md>)
 
 
 ## Microbiology
