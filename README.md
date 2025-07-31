@@ -6,7 +6,9 @@ Clinical Laboratory Links and Notes
 [Clinical Chemistry](<clinical chemistry/README.md>)
 
 
-## Microbiology
+## Bacteriology
+
+Enterobacteriacea Identification  https://microbenotes.com/enterobacteriaceae/
 
 Carbapenem-Resistant Acinetobacter Baumannii  https://www.youtube.com/watch?v=ctfzxhQbG0k
 
@@ -25,3 +27,4 @@ https://www.youtube.com/watch?v=cy3a__OOa2M
 Fibrinolysis, Thrombolysis and Anticoagulation  https://www.youtube.com/watch?v=JSGV9Zh8K74
 
 Von Willebrand disease  https://www.youtube.com/watch?v=1DHyTEtRgtk
+
