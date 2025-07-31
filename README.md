@@ -11,6 +11,11 @@ Clinical Laboratory Links and Notes
 Carbapenem-Resistant Acinetobacter Baumannii  https://www.youtube.com/watch?v=ctfzxhQbG0k
 
 
+## Hematology
+
+Blood Grouping  https://pmc.ncbi.nlm.nih.gov/articles/PMC8886265/
+
+
 ## Coagulation
 
 Coagulation Cascade Animation  https://www.youtube.com/watch?v=bgJk_WKWIQU  
