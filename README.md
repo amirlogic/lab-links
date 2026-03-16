@@ -12,6 +12,8 @@ Enterobacteriacea Identification  https://microbenotes.com/enterobacteriaceae/
 
 Carbapenem-Resistant Acinetobacter Baumannii  https://www.youtube.com/watch?v=ctfzxhQbG0k
 
+MALDI-TOF for MICs: https://www.youtube.com/watch?v=qnwLLfQ8Yj4
+
 
 ## Hematology
 
